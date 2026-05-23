@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Software Engineer from 🇨🇷 [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTthEhHSKkif-5nq), passionate about building AI-powered systems, modern web experiences, and scalable architectures with real-world impact.
+Software Engineer from [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTthEhHSKkif-5nq), passionate about building AI-powered systems, modern web experiences, and scalable architectures with real-world impact.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andresvm18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -95,6 +95,7 @@ Software Engineer from 🇨🇷 [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTt
 - 🎓 **Software Engineering** graduate
 - ✈️ Work & Travel experience in the **USA**
 - 🤖 Passionate about **AI, automation, and scalable systems**
+- 🌱 Interested in **technology with social and educational impact**
 
 ---
 
