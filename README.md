@@ -6,7 +6,7 @@
 
 Software Engineer from [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTthEhHSKkif-5nq), passionate about building AI-powered systems, modern web experiences, and scalable architectures with real-world impact.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andresvm18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrevm18&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -165,15 +165,6 @@ Software Engineer from [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTthEhHSKkif
 * 🤖 Passionate about **AI, Machine Learning, and Scalable Systems**
 * 📊 Interested in **MLOps, Data-Driven Applications, and Automation**
 * 🌱 Interested in **technology with social and educational impact**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andresvm18&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresvm18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
