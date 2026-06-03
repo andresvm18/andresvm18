@@ -14,13 +14,14 @@ Software Engineer from [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTthEhHSKkif
 
 ## 🚀 What I'm focused on
 
-- 🤖 **AI-powered applications** & LLM integrations
-- 🧠 **Machine Learning** systems
-- 🌐 **Full-stack web development**
-- ⚛️ **Modern React & TypeScript** ecosystems
-- 🏗️ **Backend architecture & REST APIs**
-- 🔧 **CI/CD and DevOps** practices
-
+- 🤖 AI-powered applications & LLM integrations
+- 🧠 Machine Learning & Predictive Analytics
+- 📊 MLOps and Production ML Systems
+- 🌐 Full-stack web development
+- ⚛️ Modern React & TypeScript ecosystems
+- 🏗️ Backend architecture & REST APIs
+- 🔧 CI/CD, Testing, and DevOps practices
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -33,6 +34,13 @@ Software Engineer from [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTthEhHSKkif
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=flat-square)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -61,43 +69,111 @@ Software Engineer from [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTthEhHSKkif
 
 ## 🌟 Featured Projects
 
-### 🤖 [ResumeBuilder — AI-Powered ATS Resume Platform](https://resume-builder-green-omega.vercel.app/)
-> AI-driven platform for ATS resume optimization, semantic analysis, and professional PDF generation.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+### 📉 [Customer Churn Prediction Platform](https://churn-dashboard-z386.onrender.com/)
+
+> End-to-end machine learning platform for customer churn prediction featuring explainable AI, real-time inference, interactive dashboards, and production-ready deployment.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+**Highlights**
+
+* Built a complete machine learning pipeline including data preprocessing, feature engineering, class balancing with SMOTE, model training, and evaluation.
+* Developed an XGBoost-based churn prediction model for customer retention analysis.
+* Created a FastAPI backend for real-time prediction and risk assessment.
+* Built an interactive Streamlit dashboard for customer analysis and prediction visualization.
+* Implemented SHAP explainability to identify the key drivers behind churn predictions.
+* Automated testing, code quality checks, and CI/CD workflows using GitHub Actions.
+* Containerized services with Docker and deployed production-ready applications to the cloud.
+
+---
+
+### 🤖 [ResumeBuilder — AI-Powered ATS Resume Platform](https://resume-builder-green-omega.vercel.app/)
+
+> AI-driven platform for ATS resume optimization, semantic analysis, intelligent recommendations, and professional PDF generation.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square\&logo=googlegemini\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
+
+**Highlights**
+
+* Developed a full-stack ATS resume optimization platform with AI-powered analysis.
+* Built semantic keyword extraction and intelligent recommendation systems.
+* Integrated multiple LLM providers including OpenAI, Gemini, and OpenRouter.
+* Implemented secure authentication and protected user workflows.
+* Generated ATS-friendly PDF resumes using LaTeX templates.
+* Designed CI/CD pipelines and automated quality assurance workflows.
+* Built scalable backend services using Node.js, PostgreSQL, and Prisma.
 
 ---
 
 ### 🌿 [Bribri Illustrated Alphabet](https://alfabeto-bribri.vercel.app/)
+
 > Interactive educational platform for preserving the Bribri indigenous language through multimedia learning.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square\&logo=chakraui\&logoColor=white)
+
+**Highlights**
+
+* Developed an interactive educational platform for indigenous language preservation.
+* Implemented image and audio support for pronunciation and visual learning.
+* Built responsive and accessible user interfaces with React and Chakra UI.
+* Integrated Supabase for content management and data persistence.
+* Designed multimedia learning experiences to improve language acquisition.
+* Focused on cultural preservation through modern web technologies.
 
 ---
 
 ### 🏛️ [Institutional Website — UCR (EMATE)](https://emate.ucr.ac.cr/)
+
 > Development and maintenance of the institutional website for the School of Mathematics at Universidad de Costa Rica.
 
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square\&logo=drupal\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+**Highlights**
+
+* Developed and maintained institutional web content using Drupal CMS.
+* Created and customized Twig templates for academic and administrative pages.
+* Implemented front-end improvements using HTML and CSS.
+* Managed publication workflows for news, events, and academic information.
+* Collaborated with faculty and administrative staff to maintain website resources.
+* Improved usability and accessibility across multiple sections of the platform.
 
 ---
 
 ## 👤 About Me
 
-- 📍 Based in **Costa Rica**
-- 🎓 **Software Engineering** graduate
-- ✈️ Work & Travel experience in the **USA**
-- 🤖 Passionate about **AI, automation, and scalable systems**
-- 🌱 Interested in **technology with social and educational impact**
+* 📍 Based in **Costa Rica**
+* 🎓 **Software Engineering Student** at Universidad de Costa Rica
+* 💼 Experience in **Software Development, IT Support, and Higher Education**
+* ✈️ Work & Travel experience in the **USA**
+* 🤖 Passionate about **AI, Machine Learning, and Scalable Systems**
+* 📊 Interested in **MLOps, Data-Driven Applications, and Automation**
+* 🌱 Interested in **technology with social and educational impact**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andresvm18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresvm18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -107,6 +183,7 @@ Software Engineer from [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTthEhHSKkif
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viquezandres1811@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-v%C3%ADquez-marchena-b39490310/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresvm18)
 
 </div>
 
