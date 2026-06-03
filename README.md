@@ -6,7 +6,7 @@
 
 Software Engineer from [Costa Rica](https://youtu.be/psZc1x1TQNI?si=CTthEhHSKkif-5nq), passionate about building AI-powered systems, modern web experiences, and scalable architectures with real-world impact.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=andrevm18&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=andresvm18&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
