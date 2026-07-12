@@ -40,6 +40,7 @@ Software Engineer from Costa Rica focused on building **AI-powered applications*
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🤖 AI & Machine Learning
@@ -61,6 +62,9 @@ Software Engineer from Costa Rica focused on building **AI-powered applications*
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -124,6 +128,31 @@ Software Engineer from Costa Rica focused on building **AI-powered applications*
 * Built scalable backend services with **Node.js, PostgreSQL, and Prisma**.
 
 ---
+
+### 💊 [Pharmacy Inventory Management System](https://github.com/andresvm18/pharmacy-inventory)
+> Full-stack pharmacy inventory system with FEFO-driven sales, transactional integrity, role-based access control, and a fully custom clinical-grade design system.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Highlights**
+* Implemented a **FEFO (First Expired, First Out)** allocation algorithm that automatically deducts stock from the batch closest to expiration, with the allocation shown transparently to the user after each sale.
+* Wrapped multi-item sales in a single database transaction; validated with **integration tests** that a failed item rolls back deductions already applied to earlier items in the same cart — not just theoretically atomic, but proven.
+* Built **RBAC** with 3 roles (Admin/Pharmacist/Cashier) enforced on both API endpoints and frontend navigation.
+* Delivered full CRUD across products, batches, categories, suppliers, and users, including safeguards like blocking a user from deactivating their own account.
+* Containerized the entire stack (SQL Server, API, frontend) with **Docker Compose** for one-command local setup.
+* Designed a custom "clinical precision" visual system — dedicated color palette, serif/mono typography pairing — instead of reaching for a default component library look.
+* **12 automated tests** (unit + SQLite-backed integration) running in **GitHub Actions CI/CD** on every push.
+* Hardened with rate-limited login, accessible modals (focus trap, Escape-to-close), and an audited stock-movement trail attributed to the authenticated user.
+
+  ---
 
 ### 🌿 [Bribri Illustrated Alphabet](https://alfabeto-bribri.vercel.app/)
 > Interactive educational platform for preserving the Bribri indigenous language through multimedia learning.
