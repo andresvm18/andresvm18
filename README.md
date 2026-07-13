@@ -10,11 +10,7 @@ Software Engineer from Costa Rica focused on building **AI-powered applications*
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=andresvm18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 <img src="https://streak-stats.demolab.com?user=andresvm18&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresvm18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 </div>
 
 ---
